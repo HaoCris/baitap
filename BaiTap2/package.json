@@ -1,0 +1,24 @@
+{
+  "name": "baitap2-javascript-advanced",
+  "version": "1.0.0",
+  "description": "Bài tập thực hành JavaScript nâng cao với Unit Tests",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:verbose": "jest --verbose"
+  },
+  "keywords": [
+    "javascript",
+    "advanced",
+    "exercises",
+    "jest",
+    "unit-testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
